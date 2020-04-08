@@ -128,10 +128,5 @@ app.get('/memo',(req,res)=>{
     res.sendFile(__dirname+'/public/html/memo.html')
 })
 
-////이미지 업로드 형식 example
-// app.get('/imgs',(req,res)=>{
-//     fs.readFile('D:/study/만화/인고시마/인고시마44화/44화0.jpg', (error,data)=>{
-//         res.end(data)
-//     })
-// })
+
 
