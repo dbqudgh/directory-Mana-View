@@ -1,5 +1,9 @@
 <img src="https://cdn.discordapp.com/attachments/641592958621319191/709988415990398986/unknown.png">
 
+만화는 저작권 때문에 이미지 가림
+
+<img src="https://cdn.discordapp.com/attachments/641592958621319191/709989541184012300/66527c934cf703f4.png">
+
 
 node js 가지고 크롤링해서 만화 나만에 깔끔한 만화 뷰어 사이트를 만들어봤습니다...
 
